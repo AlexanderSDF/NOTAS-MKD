@@ -1,0 +1,20 @@
+# Texto mas grande <!-- equivale a h1 -->
+
+## subtitulo mas grande <!-- h2 -->
+
+## subtitulo menos grande<!-- h3 -->
+
+listas
+
+<!-- equivale a ul -->
+
+- lunes
+- martes
+- miercoles
+- jueves
+  <!-- equivale a ol -->
+      1. mañana
+      2. tarde noche
+
+imagenes
+![texto alternativo](url)
