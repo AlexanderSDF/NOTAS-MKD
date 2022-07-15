@@ -18,3 +18,22 @@ listas
 
 imagenes
 ![texto alternativo](url)
+
+<!-- ENCABEZADOS -->
+
+#El encabezado más largo#
+
+## El segundo encabezado más largo
+
+###### El encabezado más pequeño
+
+<!-- ESTILO DE TEXTOS -->
+
+**Este texto está en negrita**
+_Este texto está en cursiva_
+~~Este texto está TACHADO~~
+**_Todo este texto es NEGRITA Y CURSIVA_**
+<sub>Este es un texto en subíndice</sub>
+<sup>Este es un texto en superíndice</sup>
+
+> Texto que es una cita
