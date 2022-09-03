@@ -1,26 +1,21 @@
 # Texto mas grande <!-- equivale a h1 -->
-
 ## subtitulo mas grande <!-- h2 -->
-
 ## subtitulo menos grande<!-- h3 -->
 
 listas
-
 <!-- equivale a ul -->
-
 - lunes
 - martes
 - miercoles
 - jueves
-  <!-- equivale a ol -->
-      1. mañana
-      2. tarde noche
+<!-- equivale a ol -->
+1. mañana
+2. tarde noche
 
 imagenes
 ![texto alternativo](url)
 
 <!-- ENCABEZADOS -->
-
 #El encabezado más largo#
 
 ## El segundo encabezado más largo
@@ -37,3 +32,16 @@ _Este texto está en cursiva_
 <sup>Este es un texto en superíndice</sup>
 
 > Texto que es una cita
+
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid) GENERAR LINK
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) GENERAR LINK
+
+TEXTO NORMAL
+Markdown se puede utilizar como blog de notas 
+tambien darle un pre formato para convertirlo en otro lenguaje.
+Editor HTML5 Markdown impulsado por AngularJS.
+
+Markdown es un lenguaje de marcado ligero basado en las convenciones de formato
+utilizado [Snakeyes] resalta el texto
+
